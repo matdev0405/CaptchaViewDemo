@@ -13,6 +13,7 @@
 		CEF9A6D4282E115200B7429B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEF9A6D2282E115200B7429B /* Main.storyboard */; };
 		CEF9A6D6282E115400B7429B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEF9A6D5282E115400B7429B /* Assets.xcassets */; };
 		CEF9A6D9282E115400B7429B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEF9A6D7282E115400B7429B /* LaunchScreen.storyboard */; };
+		CEF9A6E1282E116F00B7429B /* CaptchaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF9A6E0282E116F00B7429B /* CaptchaView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CEF9A6D5282E115400B7429B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEF9A6D8282E115400B7429B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEF9A6DA282E115400B7429B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEF9A6E0282E116F00B7429B /* CaptchaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptchaView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CEF9A6CC282E115200B7429B /* AppDelegate.swift */,
 				CEF9A6CE282E115200B7429B /* SceneDelegate.swift */,
 				CEF9A6D0282E115200B7429B /* ViewController.swift */,
+				CEF9A6E0282E116F00B7429B /* CaptchaView.swift */,
 				CEF9A6D2282E115200B7429B /* Main.storyboard */,
 				CEF9A6D5282E115400B7429B /* Assets.xcassets */,
 				CEF9A6D7282E115400B7429B /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				CEF9A6D1282E115200B7429B /* ViewController.swift in Sources */,
 				CEF9A6CD282E115200B7429B /* AppDelegate.swift in Sources */,
 				CEF9A6CF282E115200B7429B /* SceneDelegate.swift in Sources */,
+				CEF9A6E1282E116F00B7429B /* CaptchaView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
